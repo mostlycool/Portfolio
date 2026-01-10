@@ -1,0 +1,7 @@
+[
+  { "label": "Home", "url": "/" },
+  { "label": "Reel", "url": "/reel/" },
+  { "label": "KindHealth", "url": "/kindhealth/" },
+  { "label": "About", "url": "/about/" },
+  { "label": "Contact", "url": "/contact/" }
+]
